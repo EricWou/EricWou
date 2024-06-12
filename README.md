@@ -1,8 +1,12 @@
 ## I am a graduating Software Development student in Montreal specializing in back-end building programs using Java, C#, Python and working with web services and APIs. Interested in developing skills as a full-stack programmer through building front-end projects using React.js/Node.js/Express.js frameworks.
 
-E-Figuro is a project I developed as part of a team in my Desktop Applications class using C#, MSSQL, Windows Presentation Foundation (WPF) and ASP.NET. The program is built using MVC model with a fully developed user interface as well as REST archictecture for sending and receiving user requests and server responses. The scope of the project involves a local database in which queries are made through simple user interaction with the program and handled through HTTP requests/responses. 
+E-Figuro is a project I developed as part of a team in my Desktop Applications class using C#, MSSQL, Windows Presentation Foundation (WPF) and ASP.NET. The program is built using MVC model with a fully developed user interface as well as REST archictecture for sending and receiving user requests and server responses. The scope of the project involves a local database in which queries are made through simple user interaction with the program and handled through REST APIs. 
 
 Another team project I completed is Como_Se_Llama for front-end web development, an online e-commerce clothing store built using HTML/CSS/JavaScript. Product cards are dynamically generated using JavaScript and can be filtered using the responsive, real-time search bar. Login and cart modals are included for more seamless user interaction.
+
+Current projects I am working on is a massage booking web application for Transactional Web Applications using HTML/Tailwind CSS and Reactt.js, a server designed with Node.js/Express.js, an online database using MongoDB, as well as connection with web APIs such as Stripe, Google Maps, and Google Sign-In. The project aims to provide a modern and simplified user experience with fully integrated login/registration, update profile, view services, and book and pay for appointments.
+
+Another project I am working on is an exercise program mobile application developed with Java in Android Studio. The purpose of the program is to receive user queries (ex: number of workouts per week, targeted muscle groups...etc) and generate a personalized exercise program for them with parameters and description.
 
 <!--
 **EricWou/EricWou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
