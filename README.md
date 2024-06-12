@@ -1,4 +1,8 @@
-## Hi there 👋
+## I am a graduating Software Development student in Montreal specializing in back-end building programs using Java, C#, Python and working with web services and APIs. Interested in developing skills as a full-stack programmer through building front-end projects using React.js/Node.js/Express.js frameworks.
+
+E-Figuro is a project I developed as part of a team in my Desktop Applications class using C#, MSSQL, Windows Presentation Foundation (WPF) and ASP.NET. The program is built using MVC model with a fully developed user interface as well as REST archictecture for sending and receiving user requests and server responses. The scope of the project involves a local database in which queries are made through simple user interaction with the program and handled through HTTP requests/responses. 
+
+Another team project I completed is Como_Se_Llama for front-end web development, an online e-commerce clothing store built using HTML/CSS/JavaScript. Product cards are dynamically generated using JavaScript and can be filtered using the responsive, real-time search bar. Login and cart modals are included for more seamless user interaction.
 
 <!--
 **EricWou/EricWou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
